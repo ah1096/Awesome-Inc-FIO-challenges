@@ -1,0 +1,8 @@
+body {font-family:Arial,Helvetica,sans-serif;
+color:white;
+background-color: pink;
+margin:auto;
+padding-left: 80px;
+}
+
+img:hover {cursor: pointer;}
